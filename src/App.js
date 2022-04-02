@@ -32,3 +32,8 @@ export default App;
 //npm install react-router-dom@5
 //npm install react-bootstrap bootstrap@5.1.3
 //npm install -S react-router-bootstrap@rr-v4
+
+// npm start
+// npm run server --port 5000
+// npm install react-scripts --save
+
